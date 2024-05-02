@@ -9,18 +9,6 @@
 </a>
 -->
 
-<!-- ========== Header ========== -->
-
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-
 ![qcc76zz9pdh41](https://github.com/heroic02/heroic02/assets/26163436/23a0ccb0-15d1-4d8f-ab0a-512dc82a3b34)
 
 <!-- ========== Main Content ========== -->
@@ -31,8 +19,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=FF805F&multiline=true&random=false&width=450&height=120&lines=I'm+heroic02%F0%9F%AA%AC;Building+the+future+of+subculture%F0%9F%95%BA;Cypherpunk+enthusiast%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;Love+Typescript+and+Solidity%F0%9F%91%BB)](https://git.io/typing-svg)
 
-[![Metrics](/github-metrics.svg)](https://github.com/heroic02/metrics/blob/master/.github/readme/partials/documentation/setup/action.md)
-
 </div>
 
 <div align="center">
@@ -42,15 +28,3 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=heroic02&theme=onedark&rank=-B,-C)](https://github.com/ryo-ma/github-profile-trophy)  
   
 </div>
-
-<!-- ========== Footer ========== -->
-
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
-<img src="https://github.com/heroic02/heroic02/assets/26163436/df6cb452-b080-4d62-a270-d0ef28ae8219" width="10%" height="auto">
