@@ -2,7 +2,7 @@
 <h3 align="center">A fullstack developer from Vietnam</h3>
 - 💬 Some tools, languages that I am currently using **solidity, rust, javascript,...**
 - 👨‍💻 All of my projects are available at [here](https://github.com/kelvinhank?tab=repositories)
-- 📫 How to reach me **hungdv21082002@gmail.com**
+- 📫 How to reach me **kelvinhank21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
